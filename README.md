@@ -12,3 +12,5 @@ The following terraform files will be ignored:
 * *_override.tf.json
 * .terraformrc
 * terraform.rc
+
+Also .idea/ has been added to the root .gitignore file
